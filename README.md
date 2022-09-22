@@ -1,2 +1,2 @@
 # FakeNewsDetection
-ML Project for detecting the accuracy of Collection Algorithm for detecting fake news in a pre labeled given dataset.
+ML Project to detect the accuracy of a Collection Algorithm for detecting fake news in a pre labelled dataset.
